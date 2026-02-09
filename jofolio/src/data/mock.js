@@ -8,7 +8,7 @@ export const personalInfo = {
   phone: "+32 472 19 66 35",
   location: "Ans, Belgium",
   avatar: "https://shorturl.at/T6SG8",
-  cvUrl: "/cv/Cv_Jonathan_Imambo.pdf",
+  cvUrl: "./cv/Cv_Jonathan_Imambo.pdf",
   social: {
     github: "https://github.com/JImambo",
     linkedin: "https://www.linkedin.com/in/jonathan-imambo-19a647202",
